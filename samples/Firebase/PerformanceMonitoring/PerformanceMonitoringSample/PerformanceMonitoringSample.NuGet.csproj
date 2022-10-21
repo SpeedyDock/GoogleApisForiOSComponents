@@ -78,10 +78,10 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Build.Download" Version="0.11.1" />
-    <PackageReference Include="Xamarin.Firebase.iOS.ABTesting" Version="8.10.0.1" />
-    <PackageReference Include="Xamarin.Firebase.iOS.Core" Version="8.10.0.1" />
-    <PackageReference Include="Xamarin.Firebase.iOS.Installations" Version="8.10.0.1" />
-    <PackageReference Include="Xamarin.Firebase.iOS.PerformanceMonitoring" Version="8.10.0.1" />
-    <PackageReference Include="Xamarin.Firebase.iOS.RemoteConfig" Version="8.10.0.1" />
+    <PackageReference Include="Xamarin.Firebase.iOS.ABTesting" Version="8.15.0.0" />
+    <PackageReference Include="Xamarin.Firebase.iOS.Core" Version="8.15.0.0" />
+    <PackageReference Include="Xamarin.Firebase.iOS.Installations" Version="8.15.0.0" />
+    <PackageReference Include="Xamarin.Firebase.iOS.PerformanceMonitoring" Version="8.15.0.0" />
+    <PackageReference Include="Xamarin.Firebase.iOS.RemoteConfig" Version="8.15.0.0" />
   </ItemGroup>
 </Project>

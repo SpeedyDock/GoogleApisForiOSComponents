@@ -201,8 +201,8 @@
     <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
     <PackageReference Include="Xamarin.Facebook.CoreKit.iOS" Version="12.2.0.1" />
     <PackageReference Include="Xamarin.Facebook.LoginKit.iOS" Version="12.2.0.1" />
-    <PackageReference Include="Xamarin.Firebase.iOS.Auth" Version="8.10.0.1" />
-    <PackageReference Include="Xamarin.Firebase.iOS.Core" Version="8.10.0.1" />
+    <PackageReference Include="Xamarin.Firebase.iOS.Auth" Version="8.15.0.0" />
+    <PackageReference Include="Xamarin.Firebase.iOS.Core" Version="8.15.0.0" />
     <PackageReference Include="Xamarin.Google.iOS.SignIn" Version="5.0.2.3" />
   </ItemGroup>
 </Project>
