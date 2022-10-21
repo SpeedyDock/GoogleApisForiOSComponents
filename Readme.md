@@ -7,7 +7,7 @@ Xamarin creates and maintains Xamarin.iOS bindings for the Google APIs for iOS L
 | Package Id                                                                   | NuGet                                         |
 |------------------------------------------------------------------------------|-----------------------------------------------|
 | [Xamarin.Firebase.iOS.ABTesting][F.ABTesting.Name]                           | [8.15.0][F.ABTesting.Package]                 |
-| [Xamarin.Firebase.iOS.AdMob][F.AdMob.Name]                                   | [8.15.0.0][F.AdMob.Package]                   |
+| [Xamarin.Firebase.iOS.AdMob][F.AdMob.Name]                                   | [8.15.0][F.AdMob.Package]                   |
 | [Xamarin.Firebase.iOS.Analytics][F.Analytics.Name]                           | [8.15.0][F.Analytics.Package]                 |
 | [Xamarin.Firebase.iOS.Auth][F.Auth.Name]                                     | [8.15.0][F.Auth.Package]                      |
 | [Xamarin.Firebase.iOS.CloudFirestore][F.CloudFirestore.Name]                 | [8.15.0][F.CloudFirestore.Package]            |

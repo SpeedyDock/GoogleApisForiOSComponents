@@ -10,7 +10,7 @@
     <RootNamespace>Firebase.AppDistribution</RootNamespace>
     <AssemblyName>Firebase.AppDistribution</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <FileVersion>8.15.0</FileVersion>
+    <FileVersion>8.15.0.0</FileVersion>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
